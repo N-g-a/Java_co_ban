@@ -1,0 +1,13 @@
+package BT3;
+
+class BT3
+{
+    public static void main(String args[])
+    {
+   
+        char ch = 'b';
+        String str = Character.toString(ch);
+        System.out.println("Chuỗi là: "+str);
+       
+    }
+}

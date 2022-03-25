@@ -1,0 +1,12 @@
+package BT4;
+
+public class BT4 {
+		   public static void main(String[] args) {
+		      String str1 = "Toi yeu.vn";
+		      String[] arStr = str1.split("\\.");
+		      for (String item : arStr) {
+		         System.out.println(item);
+		      }
+		   }
+		}
+	
